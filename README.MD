@@ -28,21 +28,25 @@ Moving along the path here is the view from the SE corner looking east from the 
 
 * ![south_east_corner_looking_north_and-east_to_portal_entrance.png](south_east_corner_looking_north_and-east_to_portal_entrance.png)
 
-When we get to the east entrance here is the view at night looking south:
+When we get to the East entrance here is the view at night looking south:
 
 * ![night_east_side_facing_south_outside.png](night_east_side_facing_south_outside.png)
 
-And looking up the east facing side with the "glowing" stairs.  I used "back-lighting" by placing torches on the inside which lights them up the path at night.
+And looking up the East facing side with the "glowing" stairs.  I used "back-lighting" by placing torches on the inside which makes them "glow" at night.
 
 * ![night_east_side_looking_up.png](night_east_side_looking_up.png)
 
-Inside the pryamid here is what the east facing looks like when use Optifine's + a custom shader:
+Inside the pryamid facing East here is what the main entrance looks like. NOTE: I'm using Optifine + a custom shader which tints all light sources yellow (you can change the tint.)
 
 * ![night_inside_facing_south_east.png](night_inside_facing_south_east.png)
 
 One of the problems with any "big build" is lighting. Initially I wasn't going to have any glass blocks but
-after realzing that the ceiling blocks all the light having torches on the ground just doesn't look all that great.
+after realizing that the ceiling blocks all the light and having torches on the ground just wasn't going to cut it.
 I decided to rip most of the East facing side and replace it with glass, stairs, and Jack O' Lanterns.
+
+Originally I resisted not due to having enough yellow dye but after making a quick "dye farm" that literally spits
+on thousands of red, orange, or yellow dye a minute (!!) using a burn-out redstone torch clock I went ahead.
+In the future I probably will use more glass given how plentiful it is.
 
 Here is the morning view looking out the East side.
 
@@ -63,7 +67,7 @@ The view from the top shows our 48 furnace "super smelter" beyond the main porta
 As you can tell I "splurged" and made the pryamid cap entirely out of gold blocks.  When you are rich there is nothing else to spend them on so why not?
 
 
-This 153 x 153 x 77 tall pyramid took about a week to build.
+This 153 x 153 x 77 tall pyramid took about a week to build.  All 23,409 blocks were hand placed.
 
 It's kind of funny Phantoms spawn inside. =P
 
