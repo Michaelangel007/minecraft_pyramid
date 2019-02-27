@@ -8,6 +8,8 @@ Table of Contents
 * [The Build](https://github.com/Michaelangel007/minecraft_pyramid#the-build)
 * [Crops](https://github.com/Michaelangel007/minecraft_pyramid#crops)
 * [Cactus XP Farm](https://github.com/Michaelangel007/minecraft_pyramid#cactus-xp-farm)
+* [Sheep Farm](https://github.com/Michaelangel007/minecraft_pyramid#sheep-xp-farm)
+* [Conclusion](https://github.com/Michaelangel007/minecraft_pyramid#conclusion)
 
 # Introduction
 
@@ -62,6 +64,12 @@ One of the problems with any "big build" is lighting. Initially, I wasn't going 
 
 Originally I resisted replacing the blocks with glass due to not having enough yellow dye but after making a quick "dye farm" that literally spits out hundreds of red, orange, yellow or magenta dye a minute (!!) using a "burn-out" redstone torch clock and 2-tall flowers I went ahead.  The burnout clock are 5x3 blocks placed in a circle shape with redstone torches placed every other block which rapidly turns on and off dispensers with bonemeal placed in the 4 adjacent squares around a center flower.  The flower farm uses bonemeal on a double tall flower to make the flower grow and drop a duplicate of itself.  A hopper minecart below the dirt "sucks" the dropped flowers and then places them into a chest.
 
+* [ ] TODO: Picture of Flower Farm
+
+To keep the dispensors stocked each one has an attached double chest with bone meal.
+
+* [ ] TODO: Picture of double chest with bone meal
+
 Here is the morning view looking out the East side.
 
 * ![morning_looking_out_east.png](morning_looking_out_east.png)
@@ -75,7 +83,7 @@ There are two circuits inside:
 The glowstone behind the stairs are on a delayed timing circuit that
 makes them turn on in staggered delay increments as they going up the pyramid -- the goal was kind of like a poor man's animated "landing lights."  I haven't seen any UFO's yet though. =P
 
-Each took about an hour to design, wire-up, and debug.
+Each custom circuit took about an hour to design, wire-up, and debug.
 
 * ![north_side_night.gif](north_side_night.gif)
 
@@ -89,6 +97,13 @@ As you can tell I "splurged" and made the pyramid cap entirely out of gold block
 This 153 x 153 x 77 tall pyramid took about a week to build.  All 23,409 blocks were hand placed.
 
 It's kind of funny to see Phantoms spawn inside. =P
+
+* [ ] TODO: Picture of phantoms
+
+I have a small glass house where you can safely AFK from the phantoms.
+
+* [ ] TOOD: Picture of glass house
+
 
 Here the north facing side is done before I decided what to do with the air gap.
 
@@ -129,7 +144,7 @@ so I decided to pass on the villager virtual slave labor this time.
 
 The center of the pyramid features a multi-level cactus farm + cactus XP farm.
 
-* [ ] TODO: Picutre of cactus farm
+* [ ] TODO: Picutre of cactus fhttps://github.com/Michaelangel007/minecraft_pyramid#cactus-xp-farmarm
 
 Each floor has 20 x 20 = 400 cactus.
 
@@ -171,5 +186,27 @@ To repair your items there is a level in front of each furnace where you can
 "lock" the furnace. Then when the next cactus that is smelted the dye will stay
 in the hopper.  When you manually remove it you will get a TON of XP due
 to the furnace storing the XP from ALL the previously smelted cactus.
+
+# Sheep Farm
+
+* [ ] TODO: Pictures of sheep & dye
+
+# Conclusion
+
+On our "last season" on the server I built two bases:
+
+* One in a jungle
+* One in the middle of the ocean at sea level going down
+
+The desert biome made for an interesting change of scenary
+and was a good opportunity to try some different colors.
+I took cues from traditional Egyptian colors: Yellow/Gold and Blue/Cobalt Turquoise.
+
+* The yellow glass augments the sandstone well.
+
+* I normally don't use tinted glass but the white stained glass looks really good.
+
+* I barely used any blue / lapis colors. In the future I'll try to 
+widen the color palette.
 
 Now to finish those 10 floors of the Cactus XP farm inside ... :-)
