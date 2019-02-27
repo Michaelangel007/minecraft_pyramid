@@ -4,11 +4,10 @@ Updated: Feb 27, 2019
 
 Table of Contents
 
-* Introduction
-* The Build
-* The View
-* Crops
-* Cactus XP Farm
+* [Introduction](https://github.com/Michaelangel007/minecraft_pyramid#introduction)
+* [The Build](https://github.com/Michaelangel007/minecraft_pyramid#the-build)
+* [Crops](https://github.com/Michaelangel007/minecraft_pyramid#crops)
+* [Cactus XP Farm](https://github.com/Michaelangel007/minecraft_pyramid#cactus-xp-farm)
 
 # Introduction
 
@@ -157,9 +156,10 @@ Given the choice between sounds of ...
 Underneath is a water collection system that flushes the cactus into furnaces.
 
 There is a master switch that duplicates carpet which is pulled into the furnaces
-there they are used a fuel. There is an automatic safety over-ride switch
-that turns the carpet duper off.  (Chest at the end of the fuel line
-with an comparator that sends a redstone signal back to the on/off switch.)
+where they are used a fuel. There is also an automatic safety over-ride switch
+that turns the carpet duper off if too much carpet is being produced and not consumed
+fast enough.  A chest at the end of the fuel line has a comparator that sends
+a redstone signal back to the on/off switch.
 
 The cactus are smelted into green dye and then using an observer clock are 
 dumped into a cactus where the dye is automatically destroyed.
