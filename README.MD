@@ -19,7 +19,7 @@ Well, I can finally scratch _one_ off my Minecraft Bucket List:
 
 This project also has a few other names:
 
-* _"Engineering R Us"_ a.k.a.
+* _"Engineering R Us"_
 * _"This can't be good for my carpal tunnel."_
 
 # The Build
@@ -32,7 +32,7 @@ This normal looking pyramid by day ...
 
 * ![west_side_night.png](west_side_night.png)
 
-I designed and wired up the two circuits which took about an hour each.
+I felt the creeper homage was appropiate. :-)
 
 All joking aside it is located in our desert mining operation. Here is the view at night facign West when you first enter through the portal.
 
@@ -68,11 +68,14 @@ Here is the morning view looking out the East side.
 
 In hindsight I probably should of built more out of glass. Go figure when I'm in the middle of the desert with tons of sand that I can smelt into glass. =P
 
-I mentioned two circuits:
+There are two circuits inside:
 
-* The first circuit on a night sensor that turns on the Creeper lighting on the West side.
-* The second circuit is also on a night sensor but on the North side.  The stairs are on a delayed timing circuit that
-makes the turn on in increments as they slowly turn on going up the pyramid -- the goal was kind of like "landing lights".  I haven't seen any UFO's yet though. =P
+* The first circuit on a night sensor that turns on the Creeper lighting on the West side that was showcased above.
+* The second circuit is also on a night sensor but on the North side.
+The glowstone behind the stairs are on a delayed timing circuit that
+makes them turn on in staggered delay increments as they going up the pyramid -- the goal was kind of like a poor man's animated "landing lights."  I haven't seen any UFO's yet though. =P
+
+Each took about an hour to design, wire-up, and debug.
 
 * ![north_side_night.gif](north_side_night.gif)
 
