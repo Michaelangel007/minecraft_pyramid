@@ -4,10 +4,13 @@ Updated: Feb 27, 2019
 
 Table of Contents
 
+* Introduction
+* The Build
 * The View
 * Crops
 * Cactus XP Farm
 
+# Introduction
 
 The running gag with any serious Minecraft player is that they have 17+ projects being worked on simultaneously.
 
@@ -20,6 +23,8 @@ This project also has a few other names:
 * _"Engineering R Us"_ a.k.a.
 * _"This can't be good for my carpal tunnel."_
 
+# The Build
+
 This normal looking pyramid by day ...
 
 * ![west_side_day.png](west_side_day.png)
@@ -30,15 +35,15 @@ This normal looking pyramid by day ...
 
 I designed and wired up the two circuits which took about an hour each.
 
-All joking aside it is located in our desert mining operation. Here is the view from night when you first enter through the portal.
+All joking aside it is located in our desert mining operation. Here is the view at night facign West when you first enter through the portal.
 
 * ![portal_entrace_looking_left.png](portal_entrace_looking_left.png)
 
-The pyramid is off to the right in the distance:
+The pyramid is off to the right (North West) in the distance:
 
 * ![portal_entrance_looking_right_east_side.png](portal_entrance_looking_right_east_side.png)
 
-Moving along the path here is the view from the SE corner looking east from the portal entrace and north towards the east entrance:
+Moving along the path here is the view from the SE corner of the pyramid looking east to the portal entrace and north:
 
 * ![south_east_corner_looking_north_and-east_to_portal_entrance.png](south_east_corner_looking_north_and-east_to_portal_entrance.png)
 
@@ -54,18 +59,15 @@ Inside the pyramid facing East here is what the main entrance looks like. NOTE: 
 
 * ![night_inside_facing_south_east.png](night_inside_facing_south_east.png)
 
-One of the problems with any "big build" is lighting. Initially I wasn't going to have any glass blocks but
-after realizing that the ceiling blocks all the light and having torches on the ground just wasn't going to cut it.
-I decided to rip most of the East facing side and replace it with glass, stairs, and Jack O' Lanterns.
+One of the problems with any "big build" is lighting. Initially, I wasn't going to have any glass blocks but after realizing that the ceiling blocks all the light and having torches on the ground just wasn't going to cut it I decided to rip most of the East facing side and replace it with glass, stairs, and Jack O' Lanterns.
 
-Originally I resisted not due to having enough yellow dye but after making a quick "dye farm" that literally spits out hundreds of red, orange, yellow or magenta dye a minute (!!) using a "burn-out" redstone torch clock I went ahead.  (The burnout clock are 5x3 blocks placed in a circle shape with redstone torches placed every other block.)
-In the future I probably will use more glass given how plentiful sand is -- Go figure when you are in the middle of a desert. =P
+Originally I resisted replacing the blocks with glass due to not having enough yellow dye but after making a quick "dye farm" that literally spits out hundreds of red, orange, yellow or magenta dye a minute (!!) using a "burn-out" redstone torch clock and 2-tall flowers I went ahead.  The burnout clock are 5x3 blocks placed in a circle shape with redstone torches placed every other block which rapidly turns on and off dispensers with bonemeal placed in the 4 adjacent squares around a center flower.  The flower farm uses bonemeal on a double tall flower to make the flower grow and drop a duplicate of itself.  A hopper minecart below the dirt "sucks" the dropped flowers and then places them into a chest.
 
 Here is the morning view looking out the East side.
 
 * ![morning_looking_out_east.png](morning_looking_out_east.png)
 
-In hindsight I probably should of built more out of glass considering I'm in the middle of the desert with tons of sand I can smelt into glass.
+In hindsight I probably should of built more out of glass. Go figure when I'm in the middle of the desert with tons of sand that I can smelt into glass. =P
 
 I mentioned two circuits:
 
